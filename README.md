@@ -5,7 +5,7 @@ backend APIs may be built outside of a Next.js context.
 
 The full Next.js application can be found here:
 
-[https://github.com/whatisagi/order
+[https://github.com/whatisagi/full-stack-order
 ](https://github.com/whatisagi/full-stack-order)
 
 The decisions made in writing the app is explained here:
